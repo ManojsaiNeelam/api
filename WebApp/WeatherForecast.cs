@@ -10,5 +10,8 @@ namespace WebApp
 
         public string? Summary { get; set; }
         public string? MainSummary { get; set; }
+
+
     }
 }
+ 
